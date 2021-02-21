@@ -3,7 +3,7 @@
 - 💙 C#
 - 💛 JavaScript
 - 💻 Working with .NET Core & React
-- 📄 Last semester in Computer Science
+- 🎓 Computer Science Engineer
 - 🎮 Gamer
 - 🎲 Indie videogame developer
 
