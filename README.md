@@ -1,29 +1,3 @@
-### Once upon a time...
+[![JG0328's GitHub stats](https://github-readme-stats.vercel.app/api?username=jg0328&custom_title=My%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💙 C#
-- 💛 JavaScript
-- 💻 Working with .NET Core & React
-- 🎓 Computer Science Engineer
-- 🎮 Gamer
-- 🎲 Indie videogame developer
-
-#### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jg0328&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![JG0328's github stats](https://github-readme-stats.vercel.app/api?username=jg0328&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**JG0328/jg0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jg0328&layout=compact&custom_title=My%20Top%2010&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
