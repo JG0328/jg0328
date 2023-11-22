@@ -3,8 +3,9 @@
 - 🎮 Gamer and video game developer
     * Ori and the Blind Forest
     * Ori and the Will of the Wisps
-- 🖥️ Working with C#, React and TypeScript
-- 🎥 Favorite movies: Logan (2017) and Joker (2019)
+    * It Takes Two
+- 🖥️ Working Ruby on Rails
+- 🎥 Favorite movies: Logan (2017), Joker (2019) and The Super Mario Bros. Movie (2023)
 
 ### Achievements
 ---
