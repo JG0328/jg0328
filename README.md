@@ -4,7 +4,7 @@
     * Ori and the Blind Forest
     * Ori and the Will of the Wisps
     * It Takes Two
-- 🖥️ Working Ruby on Rails
+- 🖥️ Working with Ruby on Rails
 - 🎥 Favorite movies: Logan (2017), Joker (2019) and The Super Mario Bros. Movie (2023)
 
 ### Achievements
