@@ -1,5 +1,7 @@
 > A bird is safe in its nest - but that is not what its wings are made for.
 
+> When you have more than you need build a bigger table - not a higher fence.
+
 - 🎮 Gamer and video game developer
     * Ori and the Blind Forest
     * Ori and the Will of the Wisps
