@@ -9,15 +9,3 @@
     * Split Fiction
 - 🖥️ Working with Ruby on Rails
 - 🎥 Favorite movies: Logan (2017), Joker (2019) and The Super Mario Bros. Movie (2023)
-
-### Achievements
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jg0328&title=MultiLanguage,Repositories,Commits&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Overview
----
-
-[![JG0328's GitHub](https://github-readme-stats.vercel.app/api?username=jg0328&custom_title=My%20Activity&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![JG0328's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jg0328&layout=compact&custom_title=My%20Top%2010&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
